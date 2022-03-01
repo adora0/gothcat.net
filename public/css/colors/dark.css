@@ -1,0 +1,14 @@
+:root {
+    --color-bg: rgb(17, 17, 17);
+    --color-bg-alt: rgb(58, 58, 58);
+    --color-button-bg-alt: rgba(58, 58, 58, 0.4);
+    --color-fg: rgb(245, 245, 245);
+    --color-fg-alt: rgb(165, 165, 165);
+    --color-header-hgradient-start: rgba(0, 0, 102, 0.8);
+    --color-header-hgradient-end: rgba(13, 106, 166, 0.8);
+    --color-header-vgradient-start: rgba(0, 0, 0, 0);
+    --color-header-vgradient-end: rgba(17, 17, 17, 0.8);
+    --color-shadow: rgba(14, 14, 14, 0.2);
+    --color-link: rgb(126, 161, 255);
+    --color-link-visited: rgb(143, 137, 196);
+}
