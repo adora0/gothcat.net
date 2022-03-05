@@ -1,4 +1,4 @@
-navbar = document.getElementById('nav-bar');
+navbar = document.getElementById('nav');
 
 for (i=0; i<navbar.childElementCount; ++i)
 {
