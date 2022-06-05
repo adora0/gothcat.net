@@ -10,7 +10,7 @@ The server hosts `public` as the document root.
 
 Code, excluding personal content, is open source under the GNU GPL version 3 (see `LICENSE`).
 
-All personal content is (c) Kriss Wiggins 2022, all rights reserved.
+All personal content is (c) Natalie Wiggins 2022, all rights reserved.
 
 Personal content includes information, images and paragraphs specific to the author.
 
