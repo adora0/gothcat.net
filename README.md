@@ -4,7 +4,7 @@ Source code for the [gothcat personal website](http://gothcat.net).
 
 ## Server configuration
 
-[gothcat.net](http://gothcat.net) is served using the Ubuntu Server 22.04
+[gothcat.net](http://gothcat.net) is served using the Ubuntu Server 22.04 LTS
 distribution of Apache 2.
 
 To host the server, this repo should be cloned to `/var/www/html/gothcat.net`
