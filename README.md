@@ -57,4 +57,5 @@ author.
 
 ### Assets
 
-`public/assets/icon{,_circle}.*` and `public/favicon.ico` are (c) [Cosmitasia](https://twitter.com/cosmitasia) from [Picrew](https://picrew.me/).
+`public/assets/icon{,_circle}.*` and `public/favicon.ico` are (c) [Cosmitasia](https://twitter.com/cosmitasia)
+from [Picrew](https://picrew.me/).
