@@ -8,7 +8,8 @@ Source code for the [gothcat personal website](http://gothcat.net).
 2.
 
 To host the server, this repo should be cloned to `/var/www/html/gothcat.net`
-and owned by the `www-data` user and group.
+and `/var/www/html/gothcat.net/public` should be owned by the `www-data` user
+and group.
 
 Required properties in `/etc/apache2/apache2.conf`:
 ```Apache
