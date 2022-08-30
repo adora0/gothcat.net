@@ -7,9 +7,9 @@ Source code for the [gothcat personal website](http://gothcat.net).
 [gothcat.net](http://gothcat.net) is served using the Ubuntu Server 22.04 LTS
 distribution of Apache 2.
 
-To host the server, this repo should be cloned to `/var/www/html/gothcat.net`
-and `/var/www/html/gothcat.net/public` should be owned by the `www-data` user
-and group.
+To host the server, this repo should be cloned; the `public` directory should be
+symbolically linked to `/var/www/html/gothcat.net/public` and owned by the
+`www-data` user and group.
 
 Required modules:
 - `include`
